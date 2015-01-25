@@ -1,0 +1,9 @@
+Utilizator1-Serviciul1-DA
+Utilizator1-Serviciul2-NU
+Utilizator1-Serviciul3-NU
+Utilizator2-Serviciul1-NU
+Utilizator2-Serviciul2-DA
+Utilizator2-Serviciul3-DA
+Utilizator3-Serviciul1-DA
+Utilizator3-Serviciul2-NU
+Utilizator3-Serviciul3-DA
